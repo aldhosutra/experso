@@ -1,0 +1,12 @@
+# Creator data is never committed: everything generated lives in the workspace
+/workspace/
+.experso/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

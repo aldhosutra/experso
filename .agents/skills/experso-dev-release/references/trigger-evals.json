@@ -1,0 +1,15 @@
+[
+  {"query": "Turn the Instagram profile @garyvee into agent skills.", "expect": "experso-build"},
+  {"query": "Learn @hormozi's expertise and make it a skill I can use.", "expect": "experso-build"},
+  {"query": "kallawaymarketing posted new videos, update their skills.", "expect": "experso-refresh"},
+  {"query": "I have two hook skills from different creators, combine them into one.", "expect": "experso-merge"},
+  {"query": "Improve my own newsletter skill using @justinwelsh's methods.", "expect": "experso-merge"},
+  {"query": "Are the kallawaymarketing skills complete, or is anything stale?", "expect": "experso-audit"},
+  {"query": "The downloaded videos are taking up too much disk, delete them.", "expect": "experso-clean"},
+  {"query": "Is this machine ready to run experso? ffmpeg might be missing.", "expect": "experso-setup"},
+  {"query": "Add TikTok as a source platform in the experso code.", "expect": "experso-dev-add-platform"},
+  {"query": "Make experso's LLM steps run through Gemini CLI.", "expect": "experso-dev-add-harness"},
+  {"query": "Can we use haiku instead of opus for the digest step?", "expect": "experso-dev-model-eval"},
+  {"query": "Release experso 1.1.0 and update the marketplaces.", "expect": "experso-dev-release"},
+  {"query": "Fix the typo in the README.", "expect": "none"}
+]

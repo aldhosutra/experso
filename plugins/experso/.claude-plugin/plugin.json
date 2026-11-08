@@ -1,0 +1,12 @@
+{
+  "name": "experso",
+  "description": "Expert from persona: turn a creator's public profile (posts, videos, carousels) into agent skills. Downloads and transcribes, extracts every piece of expertise, groups it, plans skills by output with a review step, and writes SKILL.md files with linked references and evidence. Packs from several creators merge into one .agents/ folder, and overlapping skills are merged into one.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aldo Suhartono Putra",
+    "url": "https://github.com/aldhosutra"
+  },
+  "homepage": "https://github.com/aldhosutra/experso",
+  "license": "MIT",
+  "keywords": ["skills", "agent-skills", "creator", "instagram", "transcription", "knowledge-extraction", "claude-code", "codex", "opencode"]
+}
